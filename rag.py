@@ -215,5 +215,3 @@ if __name__ == "__main__":
       print(f"- {r['text']}  (distance={r['distance']:.3f})")
       print("\n")
 
-pip freeze > requirements.txt
-
