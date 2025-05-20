@@ -1,1 +1,1 @@
-# RAG-Based-Chatbot-Nugget
+# RAG-Based-Chatbot
